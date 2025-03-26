@@ -1,0 +1,48 @@
+div{ 
+    background-color: pink;
+    margin: 100px;
+    padding: 100px;
+    width: 300px;
+    border: blue solid;
+}
+
+h1{
+    color: green ;
+    letter-spacing: 15px;
+    word-spacing: 20px;
+    font-family: monospace;
+    font-weight: bold;
+    font-weight: 900;
+}
+p{
+    text-indent: 50px;
+    text-align: center;
+}
+a{
+    text-decoration: none;
+    color: black;
+}
+h2{
+    text-decoration: overline;
+}
+h3{
+    text-decoration: line-through;
+}
+h4{
+    text-decoration: underline;
+}
+.paragraf{
+    text-indent: 50px;
+    text-align: center;
+    font-weight: bold;
+    font-size: 50px;
+}
+.klasa{
+    background-color: aliceblue;
+}
+#paragraf-1{
+    text-indent: 50px;
+    text-align: center;
+    font-weight: bold;
+    font-size: 10px;
+}
