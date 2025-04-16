@@ -1,0 +1,49 @@
+/* article p{
+    background-color: blue;
+    color: white;
+    padding: 20px;
+}
+article > p{
+    background-color: red;
+}
+article ~ p{
+    background-color: purple;
+    color: white;
+    padding: 20px;
+}
+article+p{
+    background-color: orange;
+} */
+/* h3:first-child{
+    background-color: green;
+    color: white;
+} */
+
+/* input:in-range{
+    border: 4px solid green;
+} */
+
+/* input:out-of-range{
+    border: 4px solid red;
+} */
+/* input:focus{
+    background-color: blueviolet;
+} */
+ /* span:first-of-type{
+    background-color: black;
+    color: white;
+    padding: 20px;
+ } */
+
+ /* form:invalid{
+    border: 2px solid red;
+ }
+ form:valid{
+    border: 2px solid red;
+ } */
+p::first-line{
+    color: blue;
+}
+p::first-letter{
+    font-size: 40px;
+}
